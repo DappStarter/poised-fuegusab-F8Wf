@@ -1,0 +1,12 @@
+{
+    "name": "Bull App",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible",
+        "/category/collection/core-entity": true
+    }
+}
